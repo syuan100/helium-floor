@@ -1,6 +1,6 @@
 .DS_Store
-./helium-floor-client-ui/admin
-./helium-floor-client-ui/.next
-./helium-floor-client-ui/node_modules
-./helium-floor-data-aggregator/admin
-./helium-floor-data-aggregator/node_modules
+helium-floor-client-ui/admin
+helium-floor-client-ui/.next
+helium-floor-client-ui/node_modules
+helium-floor-data-aggregator/admin
+helium-floor-data-aggregator/node_modules
