@@ -22,7 +22,7 @@ const server = app.listen(3030, function () {
 
 // Firebase Admin
 const admin = require('firebase-admin')
-var serviceAccount = './admin/hfs-05132018-998b528d42e6.json'
+var serviceAccount = './admin/hfs-05132018-998b528d42e6.json' // Replace this line with your own keystore file
 
 var db = admin.firestore()
 
